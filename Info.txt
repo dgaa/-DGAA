@@ -1,0 +1,16 @@
+**********************
+* DGAA SKINS	     * 
+* Version : 1.1      *
+* Autheur : Cyberann *
+**********************
+
+Contenu:
+
+1 SKIN MH49 (I_Heli_transport_02_F)
+1 SKIN MH09 (B_Heli_Light_01_F)
+1 SKIN M-900 (C_Heli_Light_01_civil_F)
+1 SKIN Cessna SkyWagon (GNT_C185_RP)  
+1 SKIN Combinaison DGAA (B_Helipilot_F)
+1 SKIN SUV (C_SUV_01_F)
+1 SKIN Logo pour drapeau 
+
